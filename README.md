@@ -36,16 +36,6 @@ Python | Tkinter | Pandas | File Handling | Error Handling
    pip install pandas
    python app.py
    ```
-## File Structure:
-flash-card-project/
-├── app.py                # Main application file
-├── data/                # Folder for .csv files
-│   └── french_words.csv    # Original word list
-│   └── wants_to_learn.csv   # Updated word list
-├── images/              # Images for cards and buttons
-├── screenshots/         # Screenshots of the application
-├── experiments/         # Temporary or practice files
-└── README.md           # Project documentation
 
 **Created by Pranjal Sarnaik**  
 *Released under the MIT License*
