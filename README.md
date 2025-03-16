@@ -35,7 +35,7 @@ Python | Tkinter | Pandas | File Handling | Error Handling
     ```bash  
    pip install pandas
    python app.py
-
+   ```
 ## File Structure:
 flash-card-project/
 ├── app.py                # Main application file
